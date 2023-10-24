@@ -13,15 +13,15 @@ This repository includes three parts: Data Modeling, Data Engineering, and Data 
 
 Data Modeling: 
 
-This repo includes a PNG file of the table schema built using 6 CSV files. In this table schema, the primary keys are dept_no and emp_no. 
+- This repo includes a PNG file of the table schema built using 6 CSV files. In this table schema, the primary keys are dept_no and emp_no. 
 
 Data Engineering:
 
-The SQL code used to create this table schema was imported into a database on PG Admin called “employee_dp. " 
+- The SQL code used to create this table schema was imported into a database on PG Admin called “employee_dp. " 
 
-Data Analysis
+Data Analysis:
 
-With the database built, I wrote SQL queries to answer eight questions to builed tables on PG admin. The questions are listed below:
+- With the database built, I wrote SQL queries to answer eight questions to build tables on PG admin. The questions are listed below:
 
         1.  List the employee number, last name, first name, sex, and salary of each employee.
 
