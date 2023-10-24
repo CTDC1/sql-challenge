@@ -12,10 +12,12 @@ This repository contains data analysis for multiple CSV files containing informa
 This repository includes three parts: Data Modeling, Data Engineering, and Data Analysis.
 
 Data Modeling: 
-        This repo includes a PNG file of the table schema built using 6 CSV files. In this table schema, the primary keys are dept_no and emp_no. 
 
-Data Engineering 
-        The SQL code used to create this table schema was imported into database on PG Admin called “employee_dp. " 
+This repo includes a PNG file of the table schema built using 6 CSV files. In this table schema, the primary keys are dept_no and emp_no. 
+
+Data Engineering:
+
+The SQL code used to create this table schema was imported into a database on PG Admin called “employee_dp. " 
 
 Data Analysis
 
